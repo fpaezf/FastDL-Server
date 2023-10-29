@@ -10,8 +10,8 @@ Built in pure Visual Basic .NET, without third party libraries.
 Setup this fastDL file server is quite easy and can be done in a few seconds. You just need an IP address, a port to listen for incoming requests and a root folder were to store the files you want to share.
 
 ### IP Address
-If you're running FastDL server in a dedicated server, please input the server IP address.
-If you're running FastDL Server in a local computer, please input your local IP.
+If you're running FastDL server in a dedicated server, please input the server public IP address.
+If you're running FastDL Server in a local computer, please input your local IP address and do router port forwarding to make it available from outside your network.
 
 ### Port
 The port were FastDL server will listen for incoming client requests. Tipically all http servers will listen on port 80.
